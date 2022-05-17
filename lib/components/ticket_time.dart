@@ -16,8 +16,7 @@ class TicketTime extends StatelessWidget {
   Widget build(BuildContext context) {
     return Padding(
       padding: const EdgeInsets.all(8.0),
-      child: Expanded(
-          child: GridView.count(
+      child: GridView.count(
         childAspectRatio: 2,
         padding: EdgeInsets.only(top: 10),
         shrinkWrap: true,
@@ -44,7 +43,7 @@ class TicketTime extends StatelessWidget {
             );
           },
         ),
-      )),
+      ),
     );
   }
 }

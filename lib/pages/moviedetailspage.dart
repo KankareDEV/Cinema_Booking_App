@@ -32,8 +32,8 @@ class MovieDetailsPage extends StatelessWidget {
               likeCount: likeCount),
           Expanded(
             child: ListView(
-              padding: EdgeInsets.zero,
               shrinkWrap: true,
+              padding: EdgeInsets.zero,
               children: [
                 Padding(
                   padding: const EdgeInsets.only(top: 10),
@@ -43,29 +43,21 @@ class MovieDetailsPage extends StatelessWidget {
                   selectedMovie: selectedMovie,
                   movieService: movieService,
                 ),
-                Padding(
-                  padding: EdgeInsets.symmetric(
-                    vertical: 20 / 2,
-                    horizontal: 20,
-                  ),
-                  child: Text(
-                    'Plot Summary',
-                    style: TextStyle(
-                      color: Colors.white,
-                      fontSize: 23,
+                const Padding(
+                    padding: EdgeInsets.symmetric(
+                      vertical: 20 / 2,
+                      horizontal: 20,
                     ),
-                  ),
-                ),
+                    child: Text('Plot Summary',
+                        style: TextStyle(
+                          color: Colors.white,
+                          fontSize: 23,
+                        ))),
                 Padding(
-                  padding: const EdgeInsets.symmetric(horizontal: 20),
-                  child: Text(
-                    selectedMovie.description!,
-                    style: TextStyle(
-                      color: Colors.white,
-                      fontSize: 15,
-                    ),
-                  ),
-                ),
+                    padding: const EdgeInsets.symmetric(horizontal: 20),
+                    child: Text(selectedMovie.description!,
+                        style: const TextStyle(
+                            color: Colors.white, fontSize: 15))),
                 CastAndCrew(casts: selectedMovie.cast!),
               ],
             ),
