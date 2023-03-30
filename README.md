@@ -1,22 +1,21 @@
 
-## Nike Shoe Customizer
-Look no further than my latest project - a stunning Three.js website with a dynamic black background and floating 3D objects that's perfect for any sneaker shop app!
+## Cinema App
+The ticket booking app UI provides the ultimate cinema experience.
 
-With this website, users can easily customize their shoes in real-time by choosing from a wide range of colors and textures, zooming in for a closer look, and rotating the shoe to see every angle. Plus, the striking black background provides the perfect contrast to really make those Nike shoes pop!
+As a skilled developer, I created a Cinema App that allows you to effortlessly book tickets to watch your favorite movies. With this app, you can select your preferred seats and view the full price of the tickets before making a purchase.
 
-And the best part? I created all of the materials for this project using Blender, showcasing my skills and creativity in web development and 3D graphics programming.
+The visually stunning design of the app is just one of its many features. It also includes a liking function on the movie page, allowing you to easily save and keep track of your favorite films. Additionally, you can view all the relevant details about the movie, such as the actors, plot summary, and IMDb rating.
 
-So whether you're a sneakerhead looking to create your perfect pair of Nikes, or a business looking to elevate your online storefront, my customizer website is the perfect solution. Try it out today and see the difference for yourself!
+Using my expertise in app development, I created an efficient and user-friendly Cinema App that enhances the movie-going experience for users.
 
+Features:
 
-## Features
-
-- The website is built using the Three.js library which is a popular framework for creating 3D graphics and animations in the web browser using WebGL.
-- Customizable Nike shoes: The website allows users to customize their Nike shoes by choosing from a wide range of colors and textures, zooming in for a closer look, and rotating the shoe to see every angle.
-- Dynamic black background: The website features a dynamic black background that creates a high contrast environment for showcasing the Nike shoes.
-- User-friendly interface: The website has a user-friendly interface, allowing users to easily navigate through the different customization options.
-- Real-time customization: The website allows users to make real-time changes to their Nike shoes, allowing them to see the impact of their choices in real-time.
-- Compatibility: The website is designed to work seamlessly across different devices and platforms.
+Ticket booking functionality: This feature allows users to book movie tickets directly through the app. Users can select the movie they want to see, choose the date and time, and purchase tickets with just a few clicks.
+Seat selection feature: This feature allows users to select their preferred seats for the movie. The app may display a seating chart that shows which seats are available and which ones are already taken.
+Display of full ticket price before purchase: This feature displays the full price of the movie tickets, including any additional fees, taxes, or surcharges. This helps users avoid any surprises at checkout and ensures that they know exactly how much they'll be paying.
+User-friendly and efficient app design: This feature refers to the overall usability of the app. The app should be easy to use and navigate, with clear instructions and a streamlined interface. It should also be efficient, with fast loading times and minimal lag or glitches.
+Liking function for movies: This feature allows users to "like" or save movies that they're interested in. This helps users keep track of movies they want to see and makes it easier to find those movies later.
+Detailed movie information, including actors, plot summary, and IMDb rating: This feature provides users with all the relevant details about the movie, such as the cast, director, plot summary, and rating. This helps users make informed decisions about which movies to see.
 
 ## Demo
 
