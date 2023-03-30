@@ -20,6 +20,6 @@ So whether you're a sneakerhead looking to create your perfect pair of Nikes, or
 
 ## Demo
 
-<img align="right" alt="Coding" width="400" src="https://github.com/KankareDEV/QuizApp/blob/master/chattapp1.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/KankareDEV/cinemaApp/blob/master/cinema_gif.gif">
 
-<img align="left" alt="Coding" width="400" src="https://github.com/KankareDEV/QuizApp/blob/master/chatapp4.gif">
+<img align="left" alt="Coding" width="400" src="https://github.com/KankareDEV/cinemaApp/blob/master/cinema_gif2.gif">
